@@ -1347,11 +1347,8 @@ dependencies = [
  "console",
  "criterion",
  "crossbeam",
-<<<<<<< HEAD
-=======
  "dav1d-sys",
  "dolby_vision",
->>>>>>> DV
  "fern",
  "image",
  "interpolate_name",
